@@ -1,0 +1,39 @@
+# ===== Unity / Tuanjie 生成目录（不要提交，几百MB且每次重新生成）=====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+Recordings/
+[Aa]ssets/AssetStoreTools*
+
+# ===== IDE / 工程文件 =====
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.apk
+*.aab
+*.unitypackage
+.applebuild/
+*.ipa
+
+# ===== 操作系统 ====
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===== 其他 =====
+crashlytics-build.properties
+*.dll   # 注意：如果你有第三方插件 DLL 想一起发布，去掉这行
+*.pdb
